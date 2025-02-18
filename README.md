@@ -1,3 +1,3 @@
 Project code for FYP - An example of ACARS/CPDLC message encryption using a FERNET cipher.
 
-Project won't work unless valid VDLm2 messages are provided - I can't upload these due to the type of messages they contain
+This project utilises VHF Datalink Mode 2 (VDLm2) messages - I can supply examples if required, I cannot upload raw messages due to the nature and content.
